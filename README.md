@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Razan Ammar 👋</h1>
+<h1 align="center">Hi, I'm Razan 👋</h1>
 
 <p align="center">
   <b>AI / Machine Learning Engineer</b> · ML Backend · MLOps · Edge AI & TinyML<br/>
