@@ -1,10 +1,10 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=230&section=header&text=Razan%20Ammar&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=22&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=230&section=header&text=RAZAN&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20and%20Machine%20Learning%20Engineer&descSize=22&descAlignY=58" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+ML+systems+that+leave+the+notebook+%F0%9F%9A%80;MLOps+%C2%B7+Anomaly+Detection+%C2%B7+Time-Series;Edge+AI+%26+TinyML+%7C+Author+of+TinyML+Unboxed+%F0%9F%93%96;Available+for+full-time+roles+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+ML+systems+that+leave+the+notebook+%F0%9F%9A%80;MLOps+%C2%B7+Anomaly+Detection+%C2%B7+Time-Series;Edge+AI+and+TinyML+%7C+Author+of+TinyML+Unboxed+%F0%9F%93%96;Available+for+full-time+roles+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/>
