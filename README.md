@@ -25,17 +25,28 @@
 
 ## 👩‍💻 About Me
 
-```python
-class Razan:
-    role      = "AI / ML Engineer (final-year, B.Sc. AI)"
-    based_in  = "Cairo, Egypt 🇪🇬"
-    focus     = ["MLOps", "Anomaly Detection", "Time-Series", "Edge AI / TinyML"]
-    languages = ["Arabic", "English", "Turkish", "German"]
-    author_of = "TinyML Unboxed: From First Inference to Fleet-Scale Deployment"
-    looking   = "Junior AI/ML · ML Backend · MLOps · Data Science roles"
-```
+<table>
+<tr>
+<td width="55%" valign="middle">
 
-I build ML systems that go **beyond the notebook**: from data preprocessing and modeling to **inference APIs, monitoring, and automated retraining**.
+### Hey, I'm Razan 👋
+
+AI Engineer passionate about turning **machine learning and deep learning** into systems that actually run in the real world. I build, optimize, and deploy **TinyML models for resource-constrained devices**, and I care about everything around the model too: APIs, monitoring, and automated retraining.
+
+- 🔭 Currently building **PreFail**, my graduation project
+- 📖 Author of **TinyML Unboxed**, a practical guide to fleet-scale ML deployment
+- 🌱 Exploring Edge AI, MLOps, and Generative AI applications
+- 🌍 Speak Arabic, English, Turkish, and German
+- 💬 Ask me about: anomaly detection, model quantization, offline-first systems
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="assets/about.svg" alt="Neural network flowing into a TinyML chip" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
